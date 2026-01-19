@@ -1,4 +1,0 @@
-streamlit
-speechrecognition
-pydub
-openai
